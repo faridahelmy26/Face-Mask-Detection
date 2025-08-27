@@ -68,5 +68,3 @@ Example:
 * LinkedIn: [Farida Helmy] ([https://www.linkedin.com/in/faridahelmy26](https://www.linkedin.com/in/farida-helmy-0568302a3/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
 
 ---
-
-تحبي أجهزهولك كملف **README.md** جاهز أرفعهولك؟
